@@ -61,7 +61,7 @@ scikit-learn
 scipy
 seaborn
 Send2Trash
-sip==4.19.13
+sip==5.0.0
 six
 terminado==0.9.4
 testpath
